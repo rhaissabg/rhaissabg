@@ -5,28 +5,31 @@
 <p>🤓 Autodidata</p>
 <p>💻 Atualmente estudando desenvolvimento back-end com Java e Spring</p>
 <p>💭 Sempre em busca de mais conhecimento</p>
+<br>
 
 ## 📈 GitHub Stats
 <div align="center">
       
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rhaissabg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rhaissabg&layout=compact&langs_count=8&theme=dark"/>
-      
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+<br>
+
+## 📡 Tecnologias que utilizo
+<div align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,figma,github,html,java,js,md,mysql,react,ts,vscode&perline=14" />
+      </a>
+</div>
+<br>
 
 ## 📲 Entre em contato
 <p align="center">
-      <a href="https://www.linkedin.com/in/rhaissabg/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-        <a href="mailto:rhaissasbgl@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
-        <a href="https://wa.me/+5521966730220" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="azzar" height="30"/></a>
+      <a href="https://www.linkedin.com/in/rhaissabg/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rhaissabg" height="30"/></a>
+      <a href="mailto:rhaissasbgl@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar" height="30"/></a>
+      <a href="https://wa.me/+5521966730220" target="blank"><img align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="rhaissabg" height="30"/></a>
 </p>
 
 
