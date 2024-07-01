@@ -1,11 +1,20 @@
 # Oi! Eu sou a Rhaíssa Lima 👋
 
+<p>💡 Desenvolvedora FullStack Jr</p>
 <p>👾 Entusiasta de tecnologia</p>
 <p>🤓 Autodidata</p>
 <p>💻 Atualmente estudando desenvolvimento back-end com Java e Spring</p>
 <p>💭 Sempre em busca de mais conhecimento</p>
 
 ## 📈 GitHub Stats
+<div align="center">
+      
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rhaissabg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rhaissabg&layout=compact&langs_count=8&theme=dark"/>
+      
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ## 📲 Entre em contato
 <p align="center">
