@@ -1,4 +1,9 @@
-## Hi there 👋
+## Oi! Eu sou a Rhaíssa Lima 👋
+
+<p>👾 Entusiasta de tecnologia</p>
+<p>🤓 Autodidata</p>
+<p>💻 Atualmente estudando desenvolvimento back-end com Java e Spring</p>
+<p>💭 Sempre em busca de mais conhecimento</p>
 
 <!--
 **rhaissabg/rhaissabg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
