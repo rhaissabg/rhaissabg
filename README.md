@@ -1,9 +1,9 @@
 # Oi! Eu sou a Rhaíssa Lima 👋
 
+<p>📚 Estudante de <b>Ciência da Computação</b> pela Universidade Cruzeiro do Sul</p>
 <p>💡 Desenvolvedora FullStack Jr</p>
 <p>👾 Entusiasta de tecnologia</p>
-<p>🤓 Autodidata</p>
-<p>💻 Atualmente estudando desenvolvimento back-end com Java e Spring</p>
+<p>💻 Estudando desenvolvimento back-end com Java e Spring e front-end com React e TypeScript</p>
 <p>💭 Sempre em busca de mais conhecimento</p>
 <br>
 
@@ -18,7 +18,7 @@
 ## 📡 Tecnologias que utilizo
 <div align="center">
       <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,figma,github,html,java,js,md,mysql,react,ts,vscode&perline=14" />
+          <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,figma,github,html,java,js,md,mysql,react,ts,vscode,docker,eclipse,postman,maven,npm,vite,tailwind,spring&perline=14" />
       </a>
 </div>
 <br>
