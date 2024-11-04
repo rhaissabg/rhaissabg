@@ -18,7 +18,7 @@
 ## 📡 Tecnologias que utilizo
 <div align="center">
       <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,figma,github,html,java,js,md,mysql,react,ts,vscode,docker,eclipse,postman,maven,npm,vite,tailwind,spring&perline=14" />
+          <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,figma,github,html,java,js,md,mysql,react,ts,vscode,docker,eclipse,postman,maven,npm,vite,tailwind,spring,cs,dotnet&perline=14" />
       </a>
 </div>
 <br>
