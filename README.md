@@ -1,48 +1,36 @@
-# Oi! Eu sou a Rhaíssa Lima 👋
+# 👩‍💻 Rhaíssa Lima
 
-<p>📚 Estudante de <b>Ciência da Computação</b> pela Universidade Cruzeiro do Sul</p>
-<p>💡 Desenvolvedora FullStack Jr</p>
-<p>👾 Entusiasta de tecnologia</p>
-<p>💻 Estudando desenvolvimento back-end com Java e Spring e front-end com React e TypeScript</p>
-<p>💭 Sempre em busca de mais conhecimento</p>
-<br>
+### Full Stack Developer | Java & Spring Focused | Tech Enthusiast 🚀  
 
-## 📈 GitHub Stats
-<div align="center">
-      
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rhaissabg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rhaissabg&layout=compact&langs_count=8&theme=dark"/>
-</div>
-<br>
+📍 Based in Florida, USA
 
-## 📡 Tecnologias que utilizo
-<div align="center">
-      <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,figma,github,html,java,js,md,mysql,react,ts,vscode,docker,eclipse,postman,maven,npm,vite,tailwind,spring,cs,dotnet&perline=12" />
-      </a>
-</div>
-<br>
+Hi there! I'm **Rhaíssa**, a passionate Java developer with 1 year of hands-on experience! 💡  
+I'm currently transitioning into tech and fully immersed in the world of software development — exploring both the **back-end** and **front-end** while constantly learning and growing. 📚✨
 
-## 📲 Entre em contato
-<p align="center">
-      <a href="https://www.linkedin.com/in/rhaissabg/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rhaissabg" height="30"/></a>
-      <a href="mailto:rhaissasbgl@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+5521966730220" target="blank"><img align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="rhaissabg" height="30"/></a>
-</p>
-<br>
+---
 
+## 💻 Tech Stack & Tools
 
-<!--
-**rhaissabg/rhaissabg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Back-End
+- ☕ **Java** – my main programming language
+- 🌱 **Spring Boot** – building robust and secure APIs
+- 🐘 **Relational Databases** – MySQL, PostgreSQL
+- 🐳 **Docker** – containerizing my applications with ease
+- ✅ **Unit Testing** – JUnit, Mockito
 
-Here are some ideas to get you started:
+### 🎨 Front-End
+- ⚛️ **React** – creating modern and dynamic user interfaces
+- 🔷 **TypeScript** – bringing strong typing to JavaScript
+- 💅 **TailwindCSS** – fast and responsive UI styling
+- 🌐 HTML, CSS, JavaScript – the solid front-end foundation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 Always Growing
+- 💬 Participated in bootcamps by **Generation Brasil** and **SysMap Solutions**
+- 🤝 Experienced with agile methodologies like **Scrum** and **Kanban**
+- 🎓 Currently pursuing an **Associate of Science in Software Development – Computer Programming & Analysis** at **Broward College (USA)**
+
+---
+
+✨ _"Technology moves the world. And I'm moving with it!"_
