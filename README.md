@@ -10,19 +10,11 @@ I'm currently transitioning into tech and fully immersed in the world of softwar
 ---
 
 ## 💻 Tech Stack & Tools
-
-### 🧠 Back-End
-- ☕ **Java** – my main programming language
-- 🌱 **Spring Boot** – building robust and secure APIs
-- 🐘 **Relational Databases** – MySQL, PostgreSQL
-- 🐳 **Docker** – containerizing my applications with ease
-- ✅ **Unit Testing** – JUnit, Mockito
-
-### 🎨 Front-End
-- ⚛️ **React** – creating modern and dynamic user interfaces
-- 🔷 **TypeScript** – bringing strong typing to JavaScript
-- 💅 **TailwindCSS** – fast and responsive UI styling
-- 🌐 HTML, CSS, JavaScript – the solid front-end foundation
+<div align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,figma,github,html,java,js,md,mysql,react,ts,vscode,docker,eclipse,postman,maven,npm,vite,tailwind,spring&perline=11" />
+      </a>
+</div>
 
 ---
 
